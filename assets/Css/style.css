@@ -219,7 +219,7 @@ li {
 
 .footer .container-footer h2 {
   color: white;
-  z-index: 50000;
+  z-index: 1500;
 }
 
 .tab-content {
